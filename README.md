@@ -3,7 +3,7 @@
 ### Лабораторные работы
 [1 - ЭМГ](https://github.com/CandyGoose/Working_with_neural_interfaces/tree/main/lab1)
 
-[2 - Определение альфа-ритмов](https://github.com/CandyGoose/Working_with_neural_interfaces/tree/main/lab2)
+[2 - ЭКГ](https://github.com/CandyGoose/Working_with_neural_interfaces/tree/main/lab2)
 
 [3 - ФПГ](https://github.com/CandyGoose/Working_with_neural_interfaces/tree/main/lab3)
 
